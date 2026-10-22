@@ -1,0 +1,11 @@
+{
+  "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "xgboost": "3.4.1",
+    "joblib": "1.5.2",
+    "mlflow": "3.17.2"
+  }
+}
